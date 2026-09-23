@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../esp32_blink"
+		},
+		{
+			"name": "BAY2",
+			"path": "."
+		}
+	]
+}
